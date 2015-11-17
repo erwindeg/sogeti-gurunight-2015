@@ -14,6 +14,8 @@ In this workshop, you are going to develop a micro-service application called _v
 
 The _vert2go_ application is a recommendation application where users can rates the place they like.
 
+The slides for the talk are in the `slides` directory.
+
 **Prerequisites:**
 
 * Java 8 (JDK)
